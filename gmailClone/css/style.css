@@ -110,3 +110,26 @@ button {
 .gb_Rf {
     display: none;
 }
+
+
+.dateClass{
+  float: right;
+}
+
+.mdc-layout-grid{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.mdc-list-item__graphic {
+  margin-right: 0px
+}
+
+.mdc-tab--active .mdc-tab__text-label {
+   color: black;
+}
+
+.mdc-tab__ripple::before, .mdc-tab__ripple::after {
+  background-color: grey;
+}
